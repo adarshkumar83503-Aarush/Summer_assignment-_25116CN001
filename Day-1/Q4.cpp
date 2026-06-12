@@ -12,5 +12,4 @@ int main(){
         count++;
     }
     cout<<"Number of digits in "<<n<<" is "<<count;
-    return 0;
-}
+    return 0;}
