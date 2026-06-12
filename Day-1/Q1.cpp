@@ -11,5 +11,4 @@ int main(){
     }
     cout<<"Sum of first "<<n<<" natural numbers is "<<sum;
     return 0;
-
 }
