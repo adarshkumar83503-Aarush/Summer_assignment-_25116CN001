@@ -10,5 +10,4 @@ int main(){
         fact=fact*i;
     }
     cout<<"Factorial of "<<n<<" is "<<fact;
-    return 0;
-}
+    return 0;}
